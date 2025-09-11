@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1.9_memory_lane/static/css/main.a2521c11.css",
+    "main.js": "/1.9_memory_lane/static/js/main.023f8ddb.js",
+    "index.html": "/1.9_memory_lane/index.html",
+    "main.a2521c11.css.map": "/1.9_memory_lane/static/css/main.a2521c11.css.map",
+    "main.023f8ddb.js.map": "/1.9_memory_lane/static/js/main.023f8ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2521c11.css",
+    "static/js/main.023f8ddb.js"
+  ]
+}
