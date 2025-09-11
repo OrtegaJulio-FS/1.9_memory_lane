@@ -2,16 +2,16 @@
   {
     "id": 1,
     "title": "Static Site",
-    "content": "1"
+    "content": "You might be wondering what a static site is and i am here to tell you. This is a when a site is made up of fixed files that can be set to deploy a website. This is more ideal for blog sites where the data information can be displayed statically and in place."
   },
   {
     "id": 2,
     "title": "Tech Stacks",
-    "content": "2"
+    "content": "Tech stacks consistent of certain group of frameworks and libraries when creating websites or applications. For example the MERN stack which sticks to a Javascript framework. It consists of MongoDB, Express.js, React.js, and Node.js and is one of the most popular choices in web developments."
   },
   {
     "id": 3,
     "title": "API basis",
-    "content": "3"
+    "content": "API consists of data that can be used in your projects instead of storing the data internally. One API i have used before is the spotify API which list a bunch of information containing music data. This allows you send request to Spotify for certain data through http requests."
   }
 ]
