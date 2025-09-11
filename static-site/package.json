@@ -2,6 +2,7 @@
   "name": "blog-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ortegajulio-fs.github.io/1.9_memory_lane",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
