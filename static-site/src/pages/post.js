@@ -10,7 +10,12 @@ export default function Post() {
   return (
     <div className="container">
       <h1 className="post-title">{post.title}</h1>
+      {post.image && (
+        <img src={post.image} alt={post.title} className="post-image" />
+      )}
+
       <p className="post-content">{post.content}</p>
+
       <Link to="/" className="back-link">
         ← Back
       </Link>

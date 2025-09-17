@@ -13,5 +13,11 @@
     "id": 3,
     "title": "API basis",
     "content": "API consists of data that can be used in your projects instead of storing the data internally. One API i have used before is the spotify API which list a bunch of information containing music data. This allows you send request to Spotify for certain data through http requests."
+  },
+  {
+    "id": 4,
+    "title": "Best Practices for using APIs within React",
+    "content": "When handling APIs there is a lot of practice that can be made to ensure your code runs smoothly and as efficient as possible. Such as adding handling error messages in order to ensure if there is an issue you can know what in your code is needed to be fixed. Another good practice to include is to not show API keys publicly. What I mean by this is you want to handle API calling in the backend. You also want to keep keys in a seperate file in your backend for better security.",
+    "image": "/images/practice-api.png"
   }
 ]
