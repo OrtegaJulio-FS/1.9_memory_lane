@@ -21,9 +21,9 @@
     "image": "practice-api.png"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "React Native",
     "content": "Im sure a lot of you are familiar with React which is a front end framework to help you generate website with much more ease. But that is not why we are here we are here to talk about React Native which is similar but also slightly different. React Native is also a framework but its more catered to mobile applications instead of websites. Similar features like use of navigation except its meant for mobile apps. Pretty much already knowing React might help you use their mobile framework native with just as much ease.",
-    "image": "practice-api.png"
+    "image": "react-image.jpeg"
   }
 ]
