@@ -19,5 +19,11 @@
     "title": "Best Practices for using APIs within React",
     "content": "When handling APIs there is a lot of practice that can be made to ensure your code runs smoothly and as efficient as possible. Such as adding handling error messages in order to ensure if there is an issue you can know what in your code is needed to be fixed. Another good practice to include is to not show API keys publicly. What I mean by this is you want to handle API calling in the backend. You also want to keep keys in a seperate file in your backend for better security.",
     "image": "practice-api.png"
+  },
+  {
+    "id": 4,
+    "title": "React Native",
+    "content": "Im sure a lot of you are familiar with React which is a front end framework to help you generate website with much more ease. But that is not why we are here we are here to talk about React Native which is similar but also slightly different. React Native is also a framework but its more catered to mobile applications instead of websites. Similar features like use of navigation except its meant for mobile apps. Pretty much already knowing React might help you use their mobile framework native with just as much ease.",
+    "image": "practice-api.png"
   }
 ]
