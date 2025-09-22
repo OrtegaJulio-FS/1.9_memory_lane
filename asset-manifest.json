@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/1.9_memory_lane/static/css/main.5cf93a93.css",
-    "main.js": "/1.9_memory_lane/static/js/main.b2200dd2.js",
+    "main.js": "/1.9_memory_lane/static/js/main.4fb82da4.js",
     "static/media/practice-api.png": "/1.9_memory_lane/static/media/practice-api.c349014d7f8627b8df2c.png",
     "index.html": "/1.9_memory_lane/index.html",
     "main.5cf93a93.css.map": "/1.9_memory_lane/static/css/main.5cf93a93.css.map",
-    "main.b2200dd2.js.map": "/1.9_memory_lane/static/js/main.b2200dd2.js.map"
+    "main.4fb82da4.js.map": "/1.9_memory_lane/static/js/main.4fb82da4.js.map"
   },
   "entrypoints": [
     "static/css/main.5cf93a93.css",
-    "static/js/main.b2200dd2.js"
+    "static/js/main.4fb82da4.js"
   ]
 }
